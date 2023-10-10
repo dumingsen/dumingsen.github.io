@@ -325,3 +325,11 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
+.avatar {
+  vertical-align: middle;
+  width: 100px;
+  height: auto;
+  position: relative;
+    overflow: hidden;
+  border-radius: 50%;
+}
