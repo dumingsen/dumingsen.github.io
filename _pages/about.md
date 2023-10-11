@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mingsen Du GitHub Pages"
+title: "Mingsen Du's GitHub Pages"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
