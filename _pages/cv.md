@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 [Short CV](http://dumingsen.github.io/files/杜明森简历.pdf)
 
 Education
