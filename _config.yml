@@ -81,9 +81,10 @@ author:
   location         : "China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  dblp             : "https://dblp.org/pid/332/8486"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "mingsendu@outlook.com"
+  researchgate     : "https://www.researchgate.net/profile/Mingsen-Du-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -98,7 +99,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/0000-0002-1663-1136"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
