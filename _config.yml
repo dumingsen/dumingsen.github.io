@@ -77,20 +77,16 @@ analytics:
 author:
   name             : "Mingsen Du"
   avatar           : "dumingsen1.png"
-  bio              : "Your biography for the left-hand sidebar"
+  affiliation: 
+  bio              : #"Your biography for the left-hand sidebar"
   location         : "China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   DBLP             : "https://dblp.org/pid/332/8486"
   googlescholar    : "https://scholar.google.com/citations?user=rcUnPLUAAAAJ&hl" #"http://yourfullgooglescholarurl.com"
   openreview       : "https://openreview.net/profile?id=~Mingsen_Du1"
-  links:
-    - name: DBLP
-    url: https://dblp.org/pid/332/8486
-    - name: Semanticscholar
-    url: https://www.semanticscholar.org/author/Mingsen-Du/2181464492
-    - name: Twitter
-    url: https://x.com/DuMingsen19120
+  dblp: https://dblp.org/pid/332/8486
+  semanticscholar: https://www.semanticscholar.org/author/Mingsen-Du/2181464492
   email            : "mingsendu@outlook.com"
   researchgate     : "https://www.researchgate.net/profile/Mingsen-Du-2"
   uri              :
