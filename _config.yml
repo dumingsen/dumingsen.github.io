@@ -82,7 +82,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   dblp             : "https://dblp.org/pid/332/8486"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=rcUnPLUAAAAJ&hl" #"http://yourfullgooglescholarurl.com"
   openreview       : "https://openreview.net/profile?id=~Mingsen_Du1"
   semanticscholar  : "https://www.semanticscholar.org/author/Mingsen-Du/2181464492"
   email            : "mingsendu@outlook.com"
