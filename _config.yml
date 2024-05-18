@@ -81,10 +81,10 @@ author:
   location         : "China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  dblp             : "https://dblp.org/pid/332/8486"
+  DBLP             : "https://dblp.org/pid/332/8486"
   googlescholar    : "https://scholar.google.com/citations?user=rcUnPLUAAAAJ&hl" #"http://yourfullgooglescholarurl.com"
   openreview       : "https://openreview.net/profile?id=~Mingsen_Du1"
-  semanticscholar  : "https://www.semanticscholar.org/author/Mingsen-Du/2181464492"
+  Semanticscholar  : "https://www.semanticscholar.org/author/Mingsen-Du/2181464492"
   email            : "mingsendu@outlook.com"
   researchgate     : "https://www.researchgate.net/profile/Mingsen-Du-2"
   uri              :
@@ -100,14 +100,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : 
   orcid            : "http://orcid.org/0000-0002-1663-1136"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "https://x.com/DuMingsen19120"
   vine             :
   weibo            :
   xing             :
