@@ -84,7 +84,13 @@ author:
   DBLP             : "https://dblp.org/pid/332/8486"
   googlescholar    : "https://scholar.google.com/citations?user=rcUnPLUAAAAJ&hl" #"http://yourfullgooglescholarurl.com"
   openreview       : "https://openreview.net/profile?id=~Mingsen_Du1"
-  Semanticscholar  : "https://www.semanticscholar.org/author/Mingsen-Du/2181464492"
+  links:
+    - name: DBLP
+    url: https://dblp.org/pid/332/8486
+    - name: Semanticscholar
+    url: https://www.semanticscholar.org/author/Mingsen-Du/2181464492
+    - name: Twitter
+    url: https://x.com/DuMingsen19120
   email            : "mingsendu@outlook.com"
   researchgate     : "https://www.researchgate.net/profile/Mingsen-Du-2"
   uri              :
