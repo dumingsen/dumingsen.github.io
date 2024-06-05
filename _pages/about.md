@@ -12,9 +12,9 @@ redirect_from:
 
 About me
 ------
-I’m Du Mingsen, and I am currently pursuing a Ph.D. degree. I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of XXX](https://cs.XXX.edu.cn/), XXX University.
+I’m Du Mingsen, and I am currently pursuing a Ph.D. degree. I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of XXX](https://xx.XXX.edu.cn/), [XXX University].
 
-**Research Interests:
+**Research Interests:**
 I am interested in data mining, artificial intelligence, machine learning, time series analysis (classification, prediction, anomaly detection, generation, imputation), large language models, interpretability, spatio-temporal data analysis, biomedical signal processing, blood pressure estimation, and more.
 
 [Email](mailto:dumingsen1999@gmail.com) / [Github](https://github.com/dumingsen) / 
