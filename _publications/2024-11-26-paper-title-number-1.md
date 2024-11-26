@@ -2,7 +2,7 @@
 title: "Multi-feature based network for multivariate time series classification"
 collection: publications
 permalink: /publication/2024-11-26-paper-title-number-1
-excerpt: ''
+excerpt:
 date: 2023
 paperurl: 'http://academicpages.github.io/files/mfnet.pdf'
 citation: 'Mingsen Du, Yanxuan Wei, Xiangwei Zheng, Cun Ji,
