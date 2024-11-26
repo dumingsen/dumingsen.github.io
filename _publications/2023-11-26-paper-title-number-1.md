@@ -3,7 +3,7 @@ title: "Multi-feature based network for multivariate time series classification"
 collection: publications
 permalink: /publication/2023-11-26-paper-title-number-1
 excerpt:
-date: 2023
+date:
 paperurl: 'http://academicpages.github.io/files/mfnet.pdf'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
