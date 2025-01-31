@@ -22,12 +22,12 @@ I am interested in data mining, artificial intelligence, machine learning, time 
 Mingsen Du, **Heterogeneous graph representation learning for semi-supervised multivariate series classification**  
    *XX*, 2025, Under review.  
    DOI: [10.48550/arXiv.2411.18043](https://arxiv.org/abs/2411.18043)  
-   #- SCI Q1, CCF B
+   - SCI Q1, CCF B
      
 Mingsen Du, **Contrast similarity-aware dual-pathway mamba for multivariate time series node classification**  
    *XX*, 2024, Under review.  
    DOI: [10.48550/arXiv.2411.12222](https://doi.org/10.48550/arXiv.2411.12222)  
-  #- SCI Q1, CCF C
+  - SCI Q1, CCF C
 
 Mingsen Du, Yanxuan Wei, Xiangwei Zheng, and Cun Ji, **Causal and local correlations based network for multivariate time series classification**  
    *Neurocomputing*, 2023, Under minor revision.  
