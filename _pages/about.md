@@ -9,16 +9,19 @@ redirect_from:
 
 # About Me
 
-I’m Du Mingsen. I am very fortunate to be advised by [Prof. XXX](https://) of XXX Lab from [School of XXX](https://), XXX University.
+I’m Du Mingsen. <!--I am very fortunate to be advised by [Prof. XXX](https://) of XXX Lab from [School of XXX](https://), XXX University.-->
 
 **Research Interests:**
 I am interested in data mining, time series analysis (classification, prediction, anomaly detection), large language models, interpretability, spatio-temporal data analysis.
 
 # Publications
 
+Du, M., Chen, M., Liu, Z., Li, Y., Ji, C., & Wei, S. (2025). Multivariate Time Series Classification via Heterogeneous Graph Representation. IEEE Transactions on Industrial Informatics, 21, 9596-9607.
+DOI: [10.1109/TII.2025.3598519](https://doi.org/10.1109/TII.2025.3598519), SCI Q1, CCF C, IF: 9.9
+
 Mingsen Du, Yanxuan Wei, Xiangwei Zheng, and Cun Ji, **Causal and local correlations based network for multivariate time series classification**  
-   *Neurocomputing*, 2023, Under minor revision.  
-   DOI: [https://arxiv.org/abs/2411.18008](https://arxiv.org/abs/2411.18008), SCI Q1, CCF C, IF: 5.5
+   *Neurocomputing*, 2023.  
+   DOI: [10.1016/j.neucom.2025.129884](https://doi.org/10.1016/j.neucom.2025.129884), SCI Q1, CCF C, IF: 5.5
 
 Mingsen Du, Yanxuan Wei, Xiangwei Zheng, and Cun Ji, **St-tree with interpretability for multivariate time series classification**  
    *Neural Networks*, 2024.  
