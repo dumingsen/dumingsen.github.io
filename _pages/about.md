@@ -19,32 +19,25 @@ I am interested in data mining, time series analysis (classification, prediction
 Du, M., Chen, M., Liu, Z., Li, Y., Ji, C., & Wei, S. (2025). Multivariate Time Series Classification via Heterogeneous Graph Representation. IEEE Transactions on Industrial Informatics, 21, 9596-9607.
 DOI: [10.1109/TII.2025.3598519](https://doi.org/10.1109/TII.2025.3598519), SCI Q1, CCF C, IF: 9.9
 
-Mingsen Du, Yanxuan Wei, Xiangwei Zheng, and Cun Ji, **Causal and local correlations based network for multivariate time series classification**  
-   *Neurocomputing*, 2023.  
+Du, M., Wei, Y., Zheng, X., & Ji, C. (2024). Causal and Local Correlations Based Network for Multivariate Time Series Classification. Neurocomputing, 634, 129884.
    DOI: [10.1016/j.neucom.2025.129884](https://doi.org/10.1016/j.neucom.2025.129884), SCI Q1, CCF C, IF: 5.5
 
-Mingsen Du, Yanxuan Wei, Xiangwei Zheng, and Cun Ji, **St-tree with interpretability for multivariate time series classification**  
-   *Neural Networks*, 2024.  
+Du, M., Wei, Y., Tang, Y., Zheng, X., Wei, S., & Ji, C. (2024). ST-Tree with Interpretability for Multivariate Time Series Classification. Neural networks : the official journal of the International Neural Network Society, 183, 106951 .
    DOI: [10.1016/j.neunet.2024.106951](https://doi.org/10.1016/j.neunet.2024.106951), SCI Q1, CCF B, IF: 6.0
 
-Mingsen Du, Yanxuan Wei, Yupeng Hu, Xiangwei Zheng, and Cun Ji, **Multivariate time series classification based on fusion features**  
-   *Expert Systems with Applications*, vol. 248, p. 123452, 2024.  
+Du, M., Wei, Y., Hu, Y., Zheng, X., & Ji, C. (2024). Multivariate time series classification based on fusion features. Expert Syst. Appl., 248, 123452.
    DOI: [10.1016/j.eswa.2024.123452](https://doi.org/10.1016/j.eswa.2024.123452), SCI Q1, CCF C, IF: 7.5
 
-Mingsen Du, Yanxuan Wei, Yupeng Hu, Xiangwei Zheng, and Cun Ji, **Automatic component identification based on time series classification for intelligent devices**  
-   In *2023 IEEE International Conference on Data Mining Workshops (ICDMW)*, pp. 540–549, 2023.  
+Du, M., Wei, Y., Hu, Y., Zheng, X., & Ji, C. (2023). Automatic Component Identification Based on Time Series Classification for Intelligent Devices. 2023 IEEE International Conference on Data Mining Workshops (ICDMW), 540-549.  
    DOI: [10.1109/ICDMW60847.2023.00077](https://doi.org/10.1109/ICDMW60847.2023.00077)
 
-Cun Ji, Mingsen Du, Yanxuan Wei, Yupeng Hu, Shĳun Liu, Li Pan, and Xiangwei Zheng, **Time series classification with random temporal features**  
-   *Journal of King Saud University-Computer and Information Sciences*, vol. 35, no. 9, p. 101783, 2023.  
+Ji, C., Du, M., Wei, Y., Hu, Y., Liu, S., Pan, L., & Zheng, X. (2023). Time series classification with random temporal features. J. King Saud Univ. Comput. Inf. Sci., 35, 101783.
    DOI: [10.1016/j.jksuci.2023.101783](https://doi.org/10.1016/j.jksuci.2023.101783), SCI Q1, IF: 5.2  
    
-Mingsen Du, Yanxuan Wei, Xiangwei Zheng, and Cun Ji, **Multi-feature based network for multivariate time series classification**  
-   *Information Sciences*, vol. 639, p. 119009, 2023.  
+Du, M., Wei, Y., Zheng, X., & Ji, C. (2023). Multi-feature based network for multivariate time series classification. Inf. Sci., 639, 119009.
    DOI: [10.1016/j.ins.2023.119009](https://doi.org/10.1016/j.ins.2023.119009), SCI Q1, CCF B, IF: 8.1
 
- Cun Ji, Mingsen Du, Yupeng Hu, Shĳun Liu, Li Pan, and Xiangwei Zheng, **Time series classification based on temporal features**  
-   *Applied Soft Computing*, vol. 128, p. 109494, 2022.  
+Ji, C., Du, M., Hu, Y., Liu, S., Pan, L., & Zheng, X. (2022). Time series classification based on temporal features. Appl. Soft Comput., 128, 109494.
    DOI: [10.1016/j.asoc.2022.109494](https://doi.org/10.1016/j.asoc.2022.109494), SCI Q1, IF: 7.2  
 
 
