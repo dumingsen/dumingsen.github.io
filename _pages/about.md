@@ -16,6 +16,9 @@ I am interested in data mining, time series analysis (classification, prediction
 
 # Publications
 
+Du, M., Chen, M., Li, Y., & Wei, S. (2026). Heterogeneous Relationships of Subjects and Shapelets for Semi-supervised Multivariate Series Classification. Expert Syst. Appl., .
+DOI: [](), SCI Q1, CCF C, IF: 8.7
+
 Du, M., Chen, M., Liu, Z., Li, Y., Ji, C., & Wei, S. (2025). Multivariate Time Series Classification via Heterogeneous Graph Representation. IEEE Transactions on Industrial Informatics, 21, 9596-9607.
 DOI: [10.1109/TII.2025.3598519](https://doi.org/10.1109/TII.2025.3598519), SCI Q1, CCF C, IF: 9.9
 
